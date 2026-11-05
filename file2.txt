@@ -1,2 +1,4 @@
 hey
 hello
+2
+rand
